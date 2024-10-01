@@ -25,7 +25,7 @@ We trained both models on the preprocessed dataset. We used the main evaluation 
 We built a web application to serve the best-performing model (Attention U-Net). The app uses:
 - **FastAPI**: For the backend, to serve segmentation results.
 - **Streamlit**: For the frontend, where users can upload MRI images and see segmentation results.
-- 
+
 ## Conclusion
 
 In this project, we successfully implemented Nested U-Net architectures to tackle brain metastasis segmentation. Our web application provides a user-friendly interface for uploading MRI images and viewing the segmentation results.
