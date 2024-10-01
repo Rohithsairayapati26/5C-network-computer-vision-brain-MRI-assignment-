@@ -1,7 +1,7 @@
 
 # Brain Metastasis Segmentation
 
-This repository contains code for brain metastasis segmentation using MRI images. We implemented two deep learning architectures: Nested U-Net (U-Net++) and Attention U-Net, and developed a web application with FastAPI and Streamlit to visualize segmentation results.
+This repository contains code for brain metastasis segmentation using MRI images. We implemented two deep learning architectures: Nested U-Net (U-Net++), and developed a web application with FastAPI and Streamlit to visualize segmentation results.
 
 ## Table of Contents
 - [Data Preprocessing](#data-preprocessing)
